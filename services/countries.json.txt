@@ -1,0 +1,32 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "population": "29121286"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "population": "21515754"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "population": "156118464"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "population": "699847"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "population": "1173108018"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "population": "184404791"
+  },
+]
